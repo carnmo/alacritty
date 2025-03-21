@@ -1,0 +1,12 @@
+[window]
+blur=true
+decorations="None"
+opacity=0.90
+padding={x = 10, y = 10}
+
+[font]
+normal={family="Source Code Pro", style="Normal"}
+size=11.4
+
+[cursor]
+style={shape="Block", blinking="Always"}
